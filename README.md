@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-![image](https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png =100x)
+![image](https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png)
 ![image](https://user-images.githubusercontent.com/103008849/181589038-e3f12dd3-eaf6-4437-bc00-376c078ef1f2.png)
 ![image](https://user-images.githubusercontent.com/103008849/181589160-77dba8cf-06f7-447b-bb89-1fcc6493948d.png)
 ![image](https://user-images.githubusercontent.com/103008849/181588618-f6980d56-66b1-4c7f-a783-5208f94a33bc.png)
