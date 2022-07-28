@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - How to reach me!
 -[LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)
 
--[Email](NBSmith0412@gmail.com)
+- Check out my [Email](NBSmith0412@gmail.com)
 
 
 
