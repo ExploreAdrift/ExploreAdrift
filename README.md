@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/103008849/181589554-28fd7e4e-e93e-474d-9d16-659c5f78fa15.png)
 ![image](https://user-images.githubusercontent.com/103008849/181589632-c84a7dc9-1d7a-4f2d-a52d-7388b78a95f1.png)
 
+Languages [C#, Python, Javascript, SQL, HTML5, CSS]
+Frameworks [Express, Flask, Jijna2, React, ASP.NET Core, Entity Framework, JQuery, Bootstrap]
+Database [MySQL, MongoDB]
+Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello, Canva]
+
 
 
 
