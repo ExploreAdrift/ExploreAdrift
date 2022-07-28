@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - Adventure photogrpaher turned programmer
 
 - How to reach me!
-[LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)
-[Email](NBSmith0412@gmail.com)
+-[LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)
+-[Email](NBSmith0412@gmail.com)
 
 
 
