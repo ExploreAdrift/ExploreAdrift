@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Adventure photographer turned programmer! 🛫 🏰 🐻 🏜 🌋 ⛰🏔🛬
+- Adventure photographer turned programmer! 🛫 🏰 📸 🐻 🌋 🏔🛬
 
 - How to reach me.
-- Here is my [LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)
+- Here is my [LinkedIn](https://www.linkedin.com/in/nicholassmith0423/) 💻
 
-- Check out my [Email](NBSmith0412@gmail.com).
+- Check out my [Email](NBSmith0412@gmail.com). ⚡️ 📬
 
 
 
