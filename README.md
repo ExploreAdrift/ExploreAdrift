@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - Frameworks [Express, Flask, Jijna2, React, ASP.NET Core, Entity Framework, JQuery, Bootstrap]
 - Database [MySQL, MongoDB]
 - Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello]
+- Editing [Photoshop, Lightroom, Premiere Pro ]
 
 
 
