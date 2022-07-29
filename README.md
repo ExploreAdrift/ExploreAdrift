@@ -22,9 +22,27 @@ Here are some ideas to get you started:
 
 - Check out my [Email](NBSmith0412@gmail.com). ⚡️ 📬
 
+<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181589038-e3f12dd3-eaf6-4437-bc00-376c078ef1f2.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181589160-77dba8cf-06f7-447b-bb89-1fcc6493948d.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181594576-65c8f72d-03b4-4d2e-a4ff-1f5ddf69967d.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181667282-f5d649c4-25ad-42bb-9ca4-a3a3ad2d3601.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181667990-a74726ce-e069-41d3-a245-74fe9a5d3c35.png" width="50" height="50">,
+32
+<img src="https://user-images.githubusercontent.com/103008849/181667815-82e9e6d7-1cf5-47fa-abf8-09e3e623cc4c.png" width="50" height="50">,
+33
+<img src="https://user-images.githubusercontent.com/103008849/181667563-fe9c70be-9ea9-4429-8bc9-2bedc849888b.png" width="50" height="50">,
+
+<img src="https://user-images.githubusercontent.com/103008849/181667382-aa85c6e2-7436-44dd-84a4-bc87dd21a3f2.png" width="50" height="50">,
 
 
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181589038-e3f12dd3-eaf6-4437-bc00-376c078ef1f2.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181589160-77dba8cf-06f7-447b-bb89-1fcc6493948d.png" width="50" height="50"><img src="![image](https://user-images.githubusercontent.com/103008849/181665614-53945d20-4ddb-43f3-ada4-25741e27626a.png)" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
+
+
 
 
 
