@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Adventure photographer turned programmer!
+- Adventure photographer turned programmer! 🛫 🏰 🐻 🏜 🌋 ⛰🏔🛬
 
-- How to reach me!
-- Here is my [LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)!
+- How to reach me.
+- Here is my [LinkedIn](https://www.linkedin.com/in/nicholassmith0423/)
 
-- Check out my [Email](NBSmith0412@gmail.com)!
+- Check out my [Email](NBSmith0412@gmail.com).
 
 
 
@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 - Database [MySQL, MongoDB]
 - Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello]
 - Editing [Photoshop, Lightroom, Premiere Pro ]
+
+
+Im currently working on a Tetris Effect emulation! Ask me about it!
 
 
 
