@@ -24,15 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181589038-e3f12dd3-eaf6-4437-bc00-376c078ef1f2.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181589160-77dba8cf-06f7-447b-bb89-1fcc6493948d.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181594576-65c8f72d-03b4-4d2e-a4ff-1f5ddf69967d.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181589038-e3f12dd3-eaf6-4437-bc00-376c078ef1f2.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181589160-77dba8cf-06f7-447b-bb89-1fcc6493948d.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181594576-65c8f72d-03b4-4d2e-a4ff-1f5ddf69967d.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50"><img src="https://user-images.githubusercontent.com/103008849/181587932-1964a998-bffb-44c3-9d87-f8eecbb549c1.png" width="50" height="50">
 
 
 
