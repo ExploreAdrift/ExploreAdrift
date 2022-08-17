@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Database [MySQL, MongoDB]
 - Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello]
 - Editing [Photoshop, Lightroom, Premiere Pro ]
+- Development and Modeling [Unity]
 
 
 Im currently working on a Tetris Effect emulation! Ask me about it!
