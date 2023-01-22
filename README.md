@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Languages [C#, Python, Javascript, SQL, HTML5, CSS]
 - Frameworks [Express, Flask, Jijna2, React, ASP.NET Core, Entity Framework, JQuery, Bootstrap]
 - Database [MySQL, MongoDB]
-- Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello]
+- Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Trello, Figma , JIRA]
 - Editing [Photoshop, Lightroom, Premiere Pro ]
 - Development and Modeling [Unity]
 
